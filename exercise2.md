@@ -1,24 +1,23 @@
 # Git commands
 
 ---
-
-##git config
+## git config
 for configuration like signing in by saving username and email
-##git init
+## git init
 to create a new repository manually
-##git commit
+## git commit
 files added to staging area will be added to repository
-##git status
+## git status
 to get update report for last changes
-##git add
+## git add
 to add new file to staging area repository
-##git log
+## git log
 to get report of all commits
-##git diff
+## git diff
 to get the difference between commits
-##git pull
+## git pull
 to download the last changes from repository
-##git push
+## git push
 to upload the committed files to repository
 
 
