@@ -1,6 +1,6 @@
 # Git commands
 
----
+
 ## git config
 for configuration like signing in by saving username and email
 ## git init
@@ -20,9 +20,9 @@ to download the last changes from repository
 ## git push
 to upload the committed files to repository
 
+---
 
 # gitignore
 
----
 before you add this file you will see if you run git status all files in your local folders even not committed one, that you have to include them
 after adding gitignore you will not see this message anymore  
