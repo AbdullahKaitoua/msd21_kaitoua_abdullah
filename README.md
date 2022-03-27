@@ -36,6 +36,6 @@ Please make sure to update tests as appropriate.
 
 ##  Author
 
-[Abdullah Kaitoua](https://github.com/AbdullahKaitoua)
+[Abdullah Kaitoua](https://github.com/AbdullahKaitoua) \
 [FH Joanneum](https://www.fh-joanneum.at/)
 
