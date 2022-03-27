@@ -33,3 +33,9 @@ Please make sure to update tests as appropriate.
 
 ## License
 [Abdullah Kaitoua](https://choosealicense.com/licenses/mit/)
+
+##  Author
+
+[Abdullah Kaitoua](https://github.com/AbdullahKaitoua)
+[FH Joanneum](https://www.fh-joanneum.at/)
+
