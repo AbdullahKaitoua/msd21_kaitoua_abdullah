@@ -26,7 +26,7 @@ Please make sure to update tests as appropriate.
 ## Exercises
 
 1. [Exercise1](exercise1.md)
-2. [Exercise2]()
+2. [Exercise2](exercise2.md)
 3. [Exercise3]()
 4. [Exercise4]()
 5. [Exercise5]()
