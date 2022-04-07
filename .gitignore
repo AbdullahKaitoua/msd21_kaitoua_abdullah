@@ -4,4 +4,6 @@
 # PDF files
 *.pdf
 
+#.idea
+*.idea
 
