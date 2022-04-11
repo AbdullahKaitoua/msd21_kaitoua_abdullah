@@ -27,9 +27,9 @@ Please make sure to update tests as appropriate.
 
 1. [Exercise1](exercise1.md)
 2. [Exercise2](exercise2.md)
-3. [Exercise3]()
-4. [Exercise4]()
-5. [Exercise5]()
+3. [Exercise3](exercise3.md)
+4. [Exercise4](exercise4.md)
+5. [Exercise5](exercise5.md)
 
 ## License
 [Abdullah Kaitoua](https://choosealicense.com/licenses/mit/)
