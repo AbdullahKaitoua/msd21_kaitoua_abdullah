@@ -7,4 +7,6 @@
 #.idea
 *.idea
 
-*target/
+.settings
+target/
+build/
