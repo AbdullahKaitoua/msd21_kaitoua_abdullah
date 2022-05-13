@@ -22,10 +22,9 @@ public class Calculator {
     }
 
     public int facu(int number) {
-//        if (number > 1) return number *= facu(number - 1);
-//        else if (number == 1)return 1;
-//        else
-            return 0;
+        if (number > 1) return number *= facu(number - 1);
+        else if (number == 1)return 1;
+        else return 0;
     }
 
 
