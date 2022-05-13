@@ -40,7 +40,22 @@ Institut Internettechnologien und -Anwendungen
 
 -Test coverage :right click on More Run/Debug -> Run ... with coverage
 indicate how many parts of the source code have been tested
+
+## 2 Testcases for each (Add,Minus,Divide und Multiply) 
+
    ![Screenshot](resources/images/ex4_1.png)
+## Faculty counter faild
+![Screenshot](resources/images/ex4_2.png)
+
+## Faculty counter succeed
+
+![Screenshot](resources/images/ex4_3.png)
+
+## MVN TEST
+
+![Screenshot](resources/images/ex4_4.png)
+
+
 
 
 

@@ -55,6 +55,23 @@ public class SimpleTest {
         Assertions.assertEquals(result, calculation.multiply(15, 33));
     }
 
+    @Test
+    public void testFaculty0() {
+
+        Assertions.assertEquals(0, calculation.facu(-4));
+    }
+
+    @Test
+    public void testFaculty1() {
+        Assertions.assertEquals(24, calculation.facu(4));
+    }
+
+    @Test
+    public void testFaculty2() {
+        result = 5*4*3*2*1;
+        Assertions.assertEquals(result, calculation.facu(5));
+    }
+
 
 }
 
