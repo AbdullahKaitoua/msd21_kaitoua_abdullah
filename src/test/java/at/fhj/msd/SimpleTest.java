@@ -6,8 +6,6 @@ import org.junit.jupiter.api.Test;
 
 public class SimpleTest {
     private Calculator calculation;
-    double result;
-
 
     @BeforeEach
     public void setUp() {
@@ -22,7 +20,7 @@ public class SimpleTest {
 
     @Test
     public void testAdd2() {
-        result = 2.9 + 6.9;
+        double result = 2.9 + 6.9;
         Assertions.assertEquals(result, calculation.add(2.9, 6.9));
     }
 
@@ -33,7 +31,7 @@ public class SimpleTest {
 
     @Test
     public void testMinus2() {
-        result = 24.9 - 6.5;
+        double result = 24.9 - 6.5;
         Assertions.assertEquals(result, calculation.minus(24.9, 6.5));
     }
     @Test
@@ -42,7 +40,7 @@ public class SimpleTest {
     }
     @Test
     public void testDivide2() {
-        result = 8.5/4;
+        double result = 8.5/4;
         Assertions.assertEquals(result, calculation.divide(8.5, 4));
     }
     @Test
@@ -51,7 +49,7 @@ public class SimpleTest {
     }
     @Test
     public void testMultiply2() {
-        result = 15*33;
+        double result = 15*33;
         Assertions.assertEquals(result, calculation.multiply(15, 33));
     }
 
@@ -68,7 +66,7 @@ public class SimpleTest {
 
     @Test
     public void testFaculty2() {
-        result = 5*4*3*2*1;
+        double result = 5 * 4 * 3 * 2;
         Assertions.assertEquals(result, calculation.facu(5));
     }
 
