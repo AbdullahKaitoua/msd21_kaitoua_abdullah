@@ -32,4 +32,16 @@ Institut Internettechnologien und -Anwendungen
 -after copying the previous dependencies download via click button 
 - creat at.fhi.msd package in test folder
 - create SimpleTest
+- create object of the class calculation and variable result
+- create @BeforeEach  and setUp() method and initialize a new object to create before each test a new object
+- create two test cases for each method (add, minus,divide ,multiply) : 
+1. comparing with direct result
+2. comparing with the operation in the result variable
+
+-Test coverage :right click on More Run/Debug -> Run ... with coverage
+indicate how many parts of the source code have been tested
+   ![Screenshot](resources/images/ex4_1.png)
+
+
+
 
