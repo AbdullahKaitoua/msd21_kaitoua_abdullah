@@ -23,7 +23,7 @@ javac -v
 - I wrote a java program with the class Calculator.java for calculation
 and  main class Main.java. to make some Calculation
 - After executing the main, we get target folder .. include classes in the packages and generated sources and maven source(see screenshot)
-  ![Screenshot](Screenshot.png)
+  ![Screenshot](resources/images/Screenshot.png)
 
 - edit pom.xml
 - I built in the console the demo program.
@@ -31,7 +31,7 @@ and  main class Main.java. to make some Calculation
 mvn compile
 ```
 - executing main class in the console (see screenshot)
-  ![Screenshot](Screenshot2.png)
+  ![Screenshot](resources/images/Screenshot2.png)
 
 
 

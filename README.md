@@ -37,5 +37,7 @@ Please make sure to update tests as appropriate.
 ##  Author
 
 [Abdullah Kaitoua](https://github.com/AbdullahKaitoua) \
+[Contact Me](mailto:abdullah.kaitoua@edu.fh-joanneum.at) \
 [FH Joanneum](https://www.fh-joanneum.at/)
+
 
