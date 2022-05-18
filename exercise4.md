@@ -1,4 +1,7 @@
-- i made sure  that target folder, .idea ,build folder , ... are hidden
+
+# Exercise 4
+
+- i made sure  that target folder, .idea ,build folder , ... are ignored in gitignore 
 - create resources folder  and subfolder images and move the screenshoots to it
 - add the properties in pom.xml
 -actual  version via strg+space
