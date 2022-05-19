@@ -41,3 +41,7 @@ Please make sure to update tests as appropriate.
 [FH Joanneum](https://www.fh-joanneum.at/)
 
 
+## Configuration templates:
+[log4j2.xml.template](src/main/resources/log4j2.xml.template)
+
+

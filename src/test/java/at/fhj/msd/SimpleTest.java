@@ -44,6 +44,10 @@ public class SimpleTest {
         Assertions.assertEquals(result, calculation.divide(8.5, 4));
     }
     @Test
+    public void testDivideError(){
+        Assertions.assertThrows(ArithmeticException.class,()->calculation.divide(3,0));
+    }
+    @Test
     public void testMultiply1() {
         Assertions.assertEquals(15, calculation.multiply(5, 3));
     }
