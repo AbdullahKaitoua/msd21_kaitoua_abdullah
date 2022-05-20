@@ -43,5 +43,7 @@ Log4j follows this order : ALL < TRACE < DEBUG < INFO < WARN < ERROR < FATAL
 -Automatic configuration 
 -Additivity
 
+![Screenshot](resources/images/ex5_4.png)
+
 
 
