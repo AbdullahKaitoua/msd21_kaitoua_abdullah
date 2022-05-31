@@ -30,6 +30,7 @@ Please make sure to update tests as appropriate.
 3. [Exercise3](exercise3.md)
 4. [Exercise4](exercise4.md)
 5. [Exercise5](exercise5.md)
+6. [Exercise6](exercise6.md)
 
 ## License
 [Abdullah Kaitoua](https://choosealicense.com/licenses/mit/)

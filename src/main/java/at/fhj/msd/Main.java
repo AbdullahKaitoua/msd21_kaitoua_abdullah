@@ -1,12 +1,12 @@
+
 package at.fhj.msd;
 
+
 /**
- * prints some calculation operations by calling the right method from <code>Calculation</code>
- * @author: Abdullah Kaitoua
+ * runs the application which prints some calculation operations by calling the right method from <code>Calculator</code>
+ * @author Abdullah Kaitoua
  */
-
 public class Main {
-
 
     public static void main(String[] args) {
         Calculator calc =new Calculator();
