@@ -1,7 +1,7 @@
 # Exercise 6
 
 
-## Was ist notwendig um Maven Site Dokumentation zu generieren?
+## What is necessary to generate Maven site documentation?
 
 -Creating a site
 -Customizing the Look & Feel
@@ -14,7 +14,7 @@
 
 
 
-## Welche unterschiedlichen Aspekte, Konfigurationen, Informationen, usw. werden in site.xml bzw. pom.xml konfiguriert?
+## What different aspects, configurations, information, etc. are configured in site.xml or pom.xml?
 
 site.xml:
 defines the directory structure of the website and the navigation bar with links to other sites. 
