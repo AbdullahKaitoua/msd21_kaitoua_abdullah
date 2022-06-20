@@ -4,9 +4,26 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.example</groupId>
+    <groupId>at.fhj.msd</groupId>
     <artifactId>msd21_kaitoua_abdullah</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
+    <url>https://github.com/AbdullahKaitoua/msd21_kaitoua_abdullah</url>
+
+    <developers>
+        <developer>
+            <id>abdullahkaitoua</id>
+            <name>Abdullah Kaitoua</name>
+            <email>abdullah.kaitoua@fh-joanneum.at</email>
+            <url>https://github.com/AbdullahKaitoua</url>
+            <organization>FH JOANNEUM GmbH</organization>
+            <organizationUrl>https://www.fh-joanneum.at/iit</organizationUrl>
+            <roles>
+                <role>Student</role>
+            </roles>
+            <timezone>Europe/Vienna</timezone>
+        </developer>
+
+    </developers>
 
 
     <properties>
@@ -65,8 +82,9 @@
                 <artifactId>maven-javadoc-plugin</artifactId>
                 <version>3.4.0</version>
                 <configuration>
-                    <show>private</show>
-                    <nohelp>true</nohelp>
+                    <doclint>-html,-syntax,-accessibility,-missing</doclint>
+                    <failOnError>false</failOnError>
+                    <quiet>true</quiet>
                 </configuration>
             </plugin>
         </plugins>
