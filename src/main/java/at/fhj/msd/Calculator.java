@@ -3,7 +3,7 @@
 package at.fhj.msd;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import java.util.*;
+
 
 
 /**
@@ -19,7 +19,6 @@ public class Calculator {
 
 
     /**
-     *
      * adds two numbers
      * @param number1 to be added
      * @param number2 to be added
